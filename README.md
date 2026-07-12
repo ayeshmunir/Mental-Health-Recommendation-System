@@ -9,7 +9,11 @@ A Machine Learning-based web application that provides mental health recommendat
 Mental health is an important aspect of overall well-being. This project uses a machine learning model trained on a mental health dataset to predict outcomes based on user responses and provide appropriate recommendations.
 
 The application is built using Python and Streamlit, making it simple, interactive, and easy to use.
+## Live Demo
 
+Try the application online:
+
+https://huggingface.co/spaces/AyeshaMunir/mental-health-recommendation-system
 ---
 
 ##  Features
