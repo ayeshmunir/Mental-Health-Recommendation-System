@@ -116,15 +116,15 @@ This project includes:
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](Mental%20Health%20Recommendation%20System/screenshots/Home.png)
 
-### 📊 Input
+### 📝 Input Form
 
-![Inputs](screenshots/Input_form.png)
+![Input Form](Mental%20Health%20Recommendation%20System/screenshots/Input_form.png)
 
-### 💡 Personalized Recommendation
+### 💡 Prediction Result
 
-![Recommendation](screenshots/Result.png)
+![Prediction Result](Mental%20Health%20Recommendation%20System/screenshots/Result.png)
 ## Future Improvements
 
 - Improve prediction accuracy
