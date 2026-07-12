@@ -123,24 +123,6 @@ This project includes:
 
 ---
 
-## Screenshots
-
-Screenshots of the application will be added in the `screenshots` folder.
-## Screenshots
-
-### Home Page
-
-![Home Page](screenshots/Home.png)
-
-### Input Form
-
-![Input Form](screenshots/Input_form.png)
-
-### Recommendation Result
-
-![Recommendation Result](screenshots/Result.png)
----
-
 ## Author
 
 **Ayesha Munir**
