@@ -112,7 +112,19 @@ This project includes:
 - Recommendation generation
 
 ---
+## 📷 Application Screenshots
 
+### 🏠 Home Page
+
+![Home Page](screenshots/Home.png)
+
+### 📊 Input
+
+![Inputs](screenshots/Input_form.png)
+
+### 💡 Personalized Recommendation
+
+![Recommendation](screenshots/Result.png)
 ## Future Improvements
 
 - Improve prediction accuracy
